@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Myanmar';
+   
+}
+
+.content img{
+    width: 100%;
+    object-fit: cover;
+    height: 300px;
+}
+.content-text{
+    width: 100%;
+    height: 150px;
+    position: absolute;
+    bottom: 0px;
+    background-color: rgba(17, 16, 16, 0.451);
+    overflow: hidden;
+}
+
+.card{
+    box-shadow:4px 3px  10px rgba(0, 0, 0, 0.393) ;
+}
+ 
+.line{
+    line-height: 33px;
+}
+@media (max-width:450px) {
+    
+}
