@@ -31,6 +31,7 @@
         <?php endforeach; ?>
     </div>
 
-    
+    <script src="component/bootstrap/js/bootstrap.min.js"></script>
+<script src="component/assets/script.js"></script>
 </body>
 </html>

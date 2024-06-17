@@ -44,5 +44,7 @@ if ($product === null) {
     <a href="chatne.php" style="position: fixed; top: 10px; left: 10px;">
         <button class="btn fw-bold bg-dark text-light" >Back</button>
     </a>
+    <script src="component/bootstrap/js/bootstrap.min.js"></script>
+<script src="component/assets/script.js"></script>
 </body>
 </html>
