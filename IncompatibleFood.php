@@ -2,7 +2,7 @@
 require_once('component/layout/header.php');
 
 
-$Infoods=json_decode(file_get_contents('Json/incompatibleFood.json'), true);
+$Infoods=json_decode(file_get_contents('Json/IncompatibleFood.json'), true);
 
 $filteredInfoods = $Infoods; 
 $searchQuery = '';
